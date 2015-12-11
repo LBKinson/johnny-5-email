@@ -3,7 +3,7 @@
 // Configuration
 // ============================================================
 // Take this token from slack's webhook integration settings
-$slack_token = "<paste-the-token-here>";
+$slack_token = "ACXHiTHpuOxUhmITu3zl6cT8";
 
 // The slack user who wrote the post (comes from Slack)
 $slack_user = $_POST["user_name"];
