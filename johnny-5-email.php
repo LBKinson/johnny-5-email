@@ -12,7 +12,7 @@ $slack_user = $_POST["user_name"];
 $slack_msg = $_POST["text"];
 
 // Recipient of the emails
-$to = "LBK <laura.kinson@gmail.com>";
+$to = "laura.kinson@gmail.com";
 
 // From-header in the emails
 $from = $slack_user." via Slack <slack@gyourdomain.com>";
